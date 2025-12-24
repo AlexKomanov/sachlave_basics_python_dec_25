@@ -1,5 +1,0 @@
-a = map(int, input("Enter 2 numbers: ").split())
-print(a)
-print(type(a))
-a = list(a)
-print(a[0])
